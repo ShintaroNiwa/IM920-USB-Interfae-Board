@@ -1,4 +1,4 @@
-# IM920 USB Interface Board
+# IM920c/s/sl USB Interface Board
 インタープラン社の無線モジュール、IM920シリーズをUSB Type-CでPCに接続するためのインターフェースボードです。
 USBシリアルコンバータICには、部室に余っていたCH340Cを使用します。
 対応する無線モジュールについては以下の通りです。
