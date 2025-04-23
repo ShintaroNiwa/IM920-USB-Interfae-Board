@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "HYB-E2502")(type "KiCad")(uri "${KIPRJMOD}/HYB-E2502.kicad_sym")(options "")(descr ""))
-)
